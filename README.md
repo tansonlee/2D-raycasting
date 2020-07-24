@@ -4,4 +4,4 @@ Shows a 2D simulation of raycasting which can be taken and implamented into othe
 
 The sprite moves using perlin noise.
 
-![](gif/2D-raycasting)
+![](gif/2D-raycasting.gif)
