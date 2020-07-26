@@ -9,7 +9,7 @@ The sprite moves using perlin noise.
 
 Applications for this project:
 - can be modified for ray marching
-- can be modified for 2D raycasting or ray marching
+- can be modified for 3D raycasting
 - can be used in games for:
   - light and shaddow generation
   - first person games for perspective generation
