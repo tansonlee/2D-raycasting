@@ -2,6 +2,8 @@
 
 ### A 2D simulation of raycasting.
 
+Link to hosted project: [Ray Casting](https://tansonlee.github.io/2D-raycasting/)
+
 **Raycasting:** An algorithm that is able to help render shapes where an intersection function can be found between the shape and a ray.
 The sprite in this example moves using perlin noise.
 
